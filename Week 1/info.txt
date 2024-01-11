@@ -1,0 +1,10 @@
+## After a series of videos on Malthusian growth,
+## students are ready to begin moving through and writting
+## some basic scripts that analyze population growth.
+
+## Major learning goals include:
+## - familiarizing students with the structure of R, RMarkdown, and RStudio (or relevant IDEs)
+## - introducing R syntax
+## - importing and viewing data
+## - creating simple plots using ggplot
+## - analyzing data using the lm() function
